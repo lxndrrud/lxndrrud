@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lxndrrud
-- 👀 I’m interested in machine learning, web development and games.
-- 🌱 I’m currently learning backend web technologies on Javascript/TypeScript, Golang, Python and frontend web technologies such as React
+- 👋 Hi, I’m Alexander.
+- 👀 I’m interested in web development, machine learning and games.
+- 🌱 I’m currently working with such backend web technologies as Typescript/Express and Golang/Gin and such frontend web technologies as React
 - 💞️ I’m looking to collaborate on web or automation projects
-- 📫 How to reach me ...
-  [Telegram](https://t.me/lxndrrud)
+- 📫 You can reach me on [Telegram](https://t.me/lxndrrud)
